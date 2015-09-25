@@ -8,7 +8,7 @@ Geonovum wants to know more about how to publish spatial data on the web in a us
 *	Research topic #3: Crawlable spatial data using the ecosystem of the Web and Linked Data
 *	Research topic #4: Spatial data on the web using the current SDI
 
-More information is at http://www.geonovum.nl/onderwerpen/geo-standaarden/nieuws/aanbesteding-testbed-locatie-data-als-integraal-onderdeel-van-het-web
+More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-data-het-web
 
 The Invitation to Tender is at https://docs.google.com/document/d/1LQQ0JObMxICpMALg46UuWFnJAfKRcNJED0fpx8utKsg/edit?usp=sharing 
 

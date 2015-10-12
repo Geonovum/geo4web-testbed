@@ -13,6 +13,6 @@ More information is at http://www.geonovum.nl/onderwerp-artikel/testbed-locatie-
 The Invitation to Tender is at https://docs.google.com/document/d/1LQQ0JObMxICpMALg46UuWFnJAfKRcNJED0fpx8utKsg/edit?usp=sharing 
 
 ## this repository
-At the moment this repository is only used to publish the questions and answers about the tender. We use this repository's issue tracker for this. The issues and answers are entered by Geonovum in order to maintain the anonimity of responders to the tender.
+At the moment this repository is only used to publish the questions and answers about the tender. We use this repository's issue tracker for this. The issues and answers are entered by Geonovum in order to maintain the anonymity of responders to the tender.
 
 https://github.com/Geonovum/geo4web-testbed/issues
